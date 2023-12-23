@@ -665,8 +665,8 @@ footer a:hover {
     margin-top: 2rem;
   }
   .kepo {
-    padding: 5rem 3rem;
-    margin: 1rem 2rem;
+    padding: 7rem 3rem;
+    margin-left: 5rem;
     text-align: center;
   }
   .kepo2 {
@@ -683,7 +683,7 @@ footer a:hover {
     font-size: 55%;
   }
   .kepo {
-    padding: 7rem 4rem;
+    padding: 5rem 4rem;
   }
   .logo {
     margin: 0 5rem;
