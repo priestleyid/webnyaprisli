@@ -654,18 +654,18 @@ footer a:hover {
     object-position: center;
   }
   .quot p {
-    font-size: 15px;
+    font-size: 18px;
     font-family: italic;
   }
   .logo {
     object-position: center;
     text-align: center;
     justify-content: center;
-    margin-left: 7rem;
+    margin-left: 5rem;
     margin-top: 2rem;
   }
   .kepo {
-    padding: 16rem 7rem;
+    padding: 10rem 7rem;
     text-align: center;
   }
   .kepo2 {
