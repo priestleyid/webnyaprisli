@@ -654,6 +654,7 @@ footer a:hover {
     object-position: center;
   }
   .quot p {
+    margin:2rem;
     font-size: 18px;
     font-family: italic;
   }
@@ -663,10 +664,12 @@ footer a:hover {
     justify-content: center;
     margin-left: 5rem;
     margin-top: 3rem;
+    width: 70px;
+    height: 70px;
   }
   .kepo {
     padding: 7rem 3rem;
-    margin-left: 5rem;
+  
     text-align: center;
   }
   .kepo2 {
