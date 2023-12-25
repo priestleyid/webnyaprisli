@@ -665,11 +665,13 @@ footer a:hover {
     justify-content: center;
     margin-left: 5rem;
     margin-top: 3rem;
+  }
+  .logo img {
     width: 50px;
     height: 50px;
   }
   .kepo {
-    
+    margin: 3rem:
     text-align: center;
   }
   .kepo2 {
